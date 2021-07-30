@@ -1,0 +1,21 @@
+{
+    "color_names": {
+        "black": "ansiblack",
+        "red": "ansired",
+        "green": "ansigreen",
+        "yellow": "ansiyellow",
+        "blue": "ansiblue",
+        "magenta": "ansimagenta",
+        "cyan": "ansicyan",
+        "gray": "ansigray",
+        "light_blick": "ansibrightblack",
+        "light_red": "ansibrightred",
+        "light_green": "ansibrightgreen",
+        "light_yellow": "ansibrightyellow",
+        "light_blue": "ansibrightblue",
+        "light_magenta": "ansibrightmagenta",
+        "light_cyan": "ansibrightcyan",
+        "white_": "ansiwhite"
+     }
+
+}
