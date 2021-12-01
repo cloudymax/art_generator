@@ -3,10 +3,6 @@
 Fun command line app to make word art using figlet
 
 ## Usage
-font = sys.argv[1]
-text_color = sys.argv[2]
-bg_color = sys.argv[3]
-payload = sys.argv[4]
 
 ```zsh
 export FONT="poison"
